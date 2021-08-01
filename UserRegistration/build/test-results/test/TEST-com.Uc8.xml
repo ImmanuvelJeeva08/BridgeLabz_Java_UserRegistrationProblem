@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.Uc8" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-01T04:50:35" hostname="LENOVO" time="0.076">
+  <properties/>
+  <testcase name="whenCheckSpecialCharGiven_whenProper_ShouldreturnTrue()" classname="com.Uc8" time="0.067"/>
+  <testcase name="whenCheckSpecialCharGiven_whenNotProper_ShouldreturnTrue()" classname="com.Uc8" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
